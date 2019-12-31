@@ -6,3 +6,4 @@ Creating a new branch is quick.
 conflict fixed
 to manage dev
 ÐÞ¸´bug
+bug fixed again
